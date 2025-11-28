@@ -49,7 +49,7 @@ A donut plot offers an alternative representation of attrition rates based on ed
 # Overview:-
 ## Dashboard 
 
-![Untitled design (1)](https://github.com/Kartik200214/HR-Data-Analysis-Dashboard-Project-Powerbi/assets/122741477/ef4c85f2-0230-470b-8678-0f0c05643d49)
+![Untitled design (1)]([https://github.com/Kartik200214/HR-Data-Analysis-Dashboard-Project-Powerbi/assets/122741477/ef4c85f2-0230-470b-8678-0f0c05643d49](https://github.com/Kartik200214/HR-Analytics-Dashboard-Using-PowerBI/blob/main/Dashboard.png))
 
 ## Dashboard Video
 https://github.com/Kartik200214/HR-Data-Analysis-Dashboard-Project-Powerbi/assets/122741477/6be74b0d-1152-48f9-a781-f497907281d2
